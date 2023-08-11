@@ -22,6 +22,7 @@ Monthly Salary:  5000.0
 Employee Name: Jane Smith
 Employee ID: 1002
 Monthly  Salary: 30000.0
+
 Challenge 2:
 Scenario: Online Shopping Platform Product Data Input
 You are a software developer working for an online shopping platform. The platform allows customers to purchase a wide variety of products. Your task is to develop a program that allows the platform administrators to input product data dynamically and validate the inputs according to specific requirements. The program should also display the data for all the products entered.
@@ -65,6 +66,7 @@ Category: Clothing
 Quantity in Stock: 50
 
 Challenge 3:
+
 Scenario:
 You are building a student management system for a school that allows teachers to manage student information. The system should be able to add new students, display student details, calculate average marks, and handle exceptions for invalid inputs. Your task is to create a Java program that implements the necessary classes and methods to achieve these functionalities.
 Instructions:
